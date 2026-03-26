@@ -182,16 +182,4 @@ I edited index.jsp by updating the HTML code to also sat hello ! We also  added 
 
 ---
 
-## Using nano
 
-### Additional improvements
-
-### Terminal vs IDE
-
-### Verifying my work
-
-
-
----
-
----
