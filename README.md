@@ -28,7 +28,7 @@ To understand and implement the fundamentals of DevOps by creating a **complete 
 ## 📈 Outcome
 By the end of this challenge, I aim to have a strong foundation in DevOps practices and a working CI/CD pipeline.
 
-## 🚀 Motivation
+
 ## 🚀 Motivation
 
 My goal is to become a Cloud Architecture Engineer. This challenge helps me build practical experience with AWS, infrastructure, and DevOps tools, which are essential for designing scalable and reliable cloud systems.
